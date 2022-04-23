@@ -1,0 +1,59 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "SchoolofcollegesContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "Week11_G4_API",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[courses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[credits]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[instructors]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[instructorsCourses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[students]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[studentsCourses]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "tiemens.SchoolOfColleges",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
